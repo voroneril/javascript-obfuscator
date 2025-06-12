@@ -21,7 +21,7 @@
   },
   "types": "index.d.ts",
   "dependencies": {
-    "@javascript-obfuscator/escodegen": "2.1.1",
+    "@javascript-obfuscator/escodegen": "git+https://github.com/voroneril/escodegen.git#2.1.1",
     "@nuxtjs/opencollective": "0.3.2",
     "acorn": "8.1.0",
     "assert": "2.0.0",
